@@ -1,4 +1,4 @@
-# music-generation-with-DL
+# Music-Generation-with-DL
 
 ## Papers
 
